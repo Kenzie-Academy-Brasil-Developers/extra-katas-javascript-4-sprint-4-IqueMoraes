@@ -1,1 +1,17 @@
 /* você pode estilizar se quiser !!! */
+
+h1{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+p {
+    font-family: sans-serif;
+    font-size: 1.3rem;
+    margin: 20px 10px;
+    padding: 10px;
+    background-color: rgb(190, 211, 194);
+    color:rgb(53, 53, 53);
+    font-weight: 600;
+    line-height: 2rem;
+    width: fit-content;
+}
